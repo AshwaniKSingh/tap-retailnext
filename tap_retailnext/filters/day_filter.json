@@ -1,0 +1,1 @@
+{"locations": ["3f691fc2-8d2c-11e7-806b-c000a2261634"], "date_ranges": [{"first_day": "2017-08-18", "last_day": "2017-08-18"}], "metrics": ["new_visitors_rate", "repeat_visitors_rate", "visit_frequency", "total_wifi_users", "repeat_wifi_users", "wifi_uptake"], "time_ranges": [{"type": "store_hours"}], "group_bys": [{"value": 1, "unit": "days", "group": "date"}]}

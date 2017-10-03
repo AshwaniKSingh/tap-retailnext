@@ -1,0 +1,4 @@
+include LICENSE
+include tap_retailnext/DataStructure/*.json
+include tap_retailnext/filters/*.json
+

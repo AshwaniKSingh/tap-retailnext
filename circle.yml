@@ -1,0 +1,11 @@
+machine:
+  python:
+    version: 3.5.4
+
+dependencies:
+  pre:
+    - pip install pylint
+
+test:
+  post:
+    - pylint __init__.py --disable missing-docstring,too-many-nested-blocks
