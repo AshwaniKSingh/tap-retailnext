@@ -1,1 +1,0 @@
-{"locations": ["af21ff58-9e2c-11e5-9bc6-0e5ba9bee1b9"], "time_ranges": [{"until": "3:2", "from": "2:47"}], "group_bys": [{"unit": "minutes", "group": "time", "value": 1}], "date_ranges": [{"first_day": "2017-08-24", "last_day": "2017-08-24"}], "metrics": ["new_wifi_users"]}
