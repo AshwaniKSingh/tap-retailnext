@@ -11,7 +11,8 @@ setup(name='tap_retailnext',
       py_modules=['tap_retailnext'],
       install_requires=[
           'singer-python==2.1.4',
-          'pyRFC3339==1.0'
+          'pyRFC3339==1.0',
+          'requests==2.14.0'
       ],
       entry_points='''
           [console_scripts]
